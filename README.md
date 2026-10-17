@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="images/igly-spatial-logo.svg" alt="IGLY Spatial logo" width="220">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/igly-spatial-logo-light.svg">
+    <img src="images/igly-spatial-logo.svg" alt="IGLY Spatial logo" width="220">
+  </picture>
 </p>
 
 <h1 align="center">IGLY Spatial: bilingual business website</h1>
